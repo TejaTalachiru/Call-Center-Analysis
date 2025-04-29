@@ -46,7 +46,7 @@ The frontend is a Streamlit application that:
 Clone the Repository:
 
 ```bash
-git clone https://github.com/ASUCICREPO/UWPD.git
+git clone https://github.com/TejaTalachiru/Call-Center-Analysis.git
 cd UWPD
 ```
 
