@@ -1,6 +1,6 @@
 # 📈Call Center Analysis🚓
 
-Welcome to the Call Center Analysis File Generator project! This application enables you to process and analyze Dispatched and Arrival CSV files for the UWPD. It leverages AWS services to automate data processing and provides an interactive web interface for ease of use.
+Welcome to the Call Center Analysis File Generator project! This application enables you to process and analyze Dispatched and Arrival CSV files for the Call Center. It leverages AWS services to automate data processing and provides an interactive web interface for ease of use.
 
 ## 🌟 Key Features
 - Automated File Processing: Upload your CSV files, and the system automatically processes them to generate insightful analysis.
